@@ -1,8 +1,0 @@
-prefix=/home/wang/Downloads/ws/install
-
-Name: robot_write
-Description: Description of robot_write
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/wang/Downloads/ws/install/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/wang/Downloads/ws/devel
-
-Name: sample_vision
-Description: Description of sample_vision
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/wang/Downloads/ws/devel/lib 
-Requires: 

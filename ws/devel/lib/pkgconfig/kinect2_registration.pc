@@ -1,8 +1,0 @@
-prefix=/home/wang/Downloads/ws/devel
-
-Name: kinect2_registration
-Description: Description of kinect2_registration
-Version: 0.0.1
-Cflags: -I/home/wang/Downloads/ws/src/iai_kinect2/kinect2_registration/include -I/usr/include
-Libs: -L/home/wang/Downloads/ws/devel/lib -lkinect2_registration /usr/lib/x86_64-linux-gnu/libOpenCL.so
-Requires: 
