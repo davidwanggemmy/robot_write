@@ -1,0 +1,8 @@
+prefix=/home/wang/Downloads/ws/install
+
+Name: kinect2_bridge
+Description: Description of kinect2_bridge
+Version: 0.0.1
+Cflags: -I/home/wang/Downloads/ws/install/include
+Libs: -L/home/wang/Downloads/ws/install/lib 
+Requires: kinect2_registration

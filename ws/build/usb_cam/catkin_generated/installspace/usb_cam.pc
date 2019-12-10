@@ -1,0 +1,8 @@
+prefix=/home/wang/Downloads/ws/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/wang/Downloads/ws/install/include
+Libs: -L/home/wang/Downloads/ws/install/lib -lusb_cam
+Requires: 

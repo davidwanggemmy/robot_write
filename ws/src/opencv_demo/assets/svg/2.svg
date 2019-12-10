@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40mm"
+   height="40mm"
+   viewBox="0 0 40 40"
+   version="1.1"
+   id="svg5005"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="2.svg">
+  <defs
+     id="defs4999" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="126.80438"
+     inkscape:cy="101.3382"
+     inkscape:document-units="mm"
+     inkscape:current-layer="flowRoot5007"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5002">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257)">
+    <g
+       aria-label="1"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.870336,241.50464)"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.33332825px;line-height:125%;font-family:KacstDigital;-inkscape-font-specification:'KacstDigital, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5007">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5194"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion5196"><rect
+             id="rect5198"
+             width="112.28918"
+             height="52.635555"
+             x="-16.667925"
+             y="22.223993" /></flowRegion><flowPara
+           id="flowPara5200"></flowPara></flowRoot>      <g
+         aria-label="2"
+         transform="translate(48.202845,71.398455)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot5186">
+        <path
+           d="M 70.326171,99.300127 H 116.22461 V 110.36784 H 54.505859 V 99.300127 q 7.486979,-7.747395 20.377603,-20.768228 12.955729,-13.085937 16.276041,-16.861978 6.315104,-7.096354 8.789063,-11.979167 2.539064,-4.947916 2.539064,-9.70052 0,-7.747396 -5.468752,-12.630208 -5.403645,-4.882812 -14.127603,-4.882812 -6.184896,0 -13.085937,2.148437 -6.835938,2.148438 -14.648437,6.510417 v -13.28125 q 7.942708,-3.190104 14.843749,-4.817708 6.901041,-1.627604 12.630208,-1.627604 15.104166,0 24.088542,7.552083 8.98437,7.552083 8.98437,20.182291 0,5.989583 -2.27864,11.393228 -2.21354,5.338542 -8.13802,12.630208 -1.62761,1.888021 -10.351565,10.9375 -8.723958,8.984375 -24.609374,25.195311 z"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.33332825px;font-family:KacstDigital;-inkscape-font-specification:'KacstDigital, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="path6026" />
+      </g>
+    </g>
+  </g>
+</svg>
